@@ -26,7 +26,7 @@ The proposed IT system aims to revolutionize the communication and scheduling pr
 - **Students:** Anticipate easier access to course materials and streamlined communication with teachers.
 - **Administrative Staff:** Look forward to reduced manual tasks and improved financial management.
 - **Manager:** Aims for increased efficiency and effectiveness in school operations.
-- 
+
 ### 3. Functionalities - Use Cases
 
 #### 3.1 Teacher Functions:
