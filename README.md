@@ -66,6 +66,10 @@ The proposed IT system aims to revolutionize the communication and scheduling pr
 - **Accounting System:** Data transfer for financial management.
 
 
+### 5. Class Diagram
+![Class Diagram](https://github.com/JulitaBussler/UML-project/assets/166449179/731a1e27-4e07-4496-b98b-5389005d3b68)
+
+
 
 ---
 
