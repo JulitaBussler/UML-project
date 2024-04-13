@@ -72,6 +72,3 @@ The proposed IT system aims to revolutionize the communication and scheduling pr
 
 
 ---
-
-
-This readme provides an overview of the proposed IT system's objectives, functionalities, and stakeholders involved. It aims to streamline communication and scheduling processes within Linguś language school, enhancing efficiency and effectiveness in school operations.
