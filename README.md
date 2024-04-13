@@ -6,10 +6,13 @@ Welcome to the readme.md for the proposed IT system designed to streamline commu
 
 ### 1. System Overview
 
-#### 1.1 Generic Concept:
+#### 1.1 Linguś - organization acquiring the IT system
+Linguś is a language school dedicated to enhancing language skills at various proficiency levels. In the next few years the school is planning to open a new department for Norwegian, hire more teachers and also gain new students. Moreover, the goal is to provide better quality of education, using modern technology and well-trained teachers.
+
+#### 1.2 Generic Concept:
 The proposed IT system aims to revolutionize the communication and scheduling processes within Linguś language school. By providing an intuitive and efficient platform, it enables seamless interaction between teachers, students, and administrative staff.
 
-#### 1.2 Goals:
+#### 1.3 Goals:
 - Enhance communication between teachers and students.
 - Simplify the process of scheduling and managing classes.
 - Provide a centralized platform for accessing course materials and assignments.
